@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="chhabra.shriya.mytasks.MainActivity">
+    <item
+        android:id="@+id/action_edit"
+        android:title="Edit"
+        android:icon="@drawable/ic_menu_edit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_del"
+        android:title="Delete"
+        android:icon="@drawable/ic_menu_del"
+        app:showAsAction="always" />
+</menu>
